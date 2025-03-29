@@ -1,0 +1,9 @@
+{
+  "workflows": [
+    {
+      "name": "app",
+      "command": "tsx server/index.ts",
+      "runOnStart": true
+    }
+  ]
+}

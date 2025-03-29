@@ -1,0 +1,9 @@
+{
+  "workflows": [
+    {
+      "name": "Dev",
+      "command": "npm run dev",
+      "runAtStart": true
+    }
+  ]
+}
