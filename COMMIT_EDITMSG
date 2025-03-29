@@ -1,0 +1,4 @@
+Refactor navigation: Replace Link components with onClick handlers for improved client-side routing. Update Home page styling and add new icons.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: b6c8ebe2-474c-454f-925f-48318e55d6e9
